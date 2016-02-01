@@ -1,3 +1,9 @@
 Q1-What happens when you intialize a repository? Why do you need to do it?
 
 You create the git repo and it is important to make the commits.
+
+Q2-How is the staging area different from the working directory and the repository? 
+What value do you think it offers?
+
+I have no idea.
+
