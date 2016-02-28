@@ -16,3 +16,16 @@ How would branches help?
 
 For development and testing purposes.
 
+Q5-How do the diagrams help visualize the branch structure?
+
+The diagram dipects each branch with branch name, and all previous commits to it.
+
+Q6-What is the result of merging two branches together? 
+Why do we represent it in the diagram the way we do?
+
+No time to answer.
+
+Q7-What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Answer later.
+
